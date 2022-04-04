@@ -13,7 +13,10 @@
             "https://ethereumnodelight.app.runonflux.io",
             "https://rpc.ankr.com/eth",
             "https://eth-rpc.gateway.pokt.network",
-            "https://main-light.eth.linkpool.io"
+            "https://main-light.eth.linkpool.io",
+            "https://mainnet.strongblock.com/44a173cb71f5788a6aa968ac2d77ad68683f1fcb",
+            "https://mainnet.strongblock.com/ca2464e29d0e2acbf5af10ed3c0de1c1aee80ea4",
+            "https://mainnet.strongblock.com/75beb484da3ae3cfac63f11a5aac287f22aa93c3"
         ]
     },
     "56": {
